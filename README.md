@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\klope\OneDrive\Documentos\Karla\Python\DSNP\data-science-1280x640.png" >
+  <img src="https://github.com/KarlaLopes/karla_lopes_ds/blob/master/foto_data_science2.jpg" >
 </p>
 
 # Karla Lopes
