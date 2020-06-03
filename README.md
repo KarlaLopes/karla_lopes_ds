@@ -5,7 +5,15 @@
 # Karla Lopes
 <sub>*Lead Data Scientist* </sub>
 
-Fazer uma descrição do meu skill.
+Currently Manager – Modeling for Auto Insurance at SulAmérica. In charge of development and quality assurance of all models utilized for pricing and forecasting demand of auto insurance, covering critical topics such as risk and demand elasticity.
+
+Also in charge of developing predictive models to support definition of underwriting rules, playing a key role in preserving the portfolio’s profitability. 
+
+My current focus has been on introducing state-of-the-art technologies such as Machine Learning and its derivations to her core modeling activities, delivering exponential gains in accuracy and processing times.
+
+Prior to joining SulAmérica, hold positions at Vale, Oi, Losango and Analysis, during which time i gathered in-depth experience in risk modeling, demand modeling and business intelligence.
+
+BS in Statistics from UERJ and an MBA in Marketing from IBMEC-RJ.
 
 **Background in:** Python, Machine Learning, Pricing, Demand and Elasticity Modelling .
 
