@@ -2,7 +2,7 @@
 Meu portfolio de projetos de data science
 
 <p align="center">
-  <img src="C:\Users\klope\OneDrive\Documentos\Karla\Python\DSNP\foto_data_science2.jpg" >
+  <img src="C:\Users\klope\OneDrive\Documentos\Karla\Python\DSNP\data-science-1280x640" >
 </p>
 
 # Karla Lopes
